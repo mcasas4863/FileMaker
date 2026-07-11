@@ -116,7 +116,7 @@ Folder Structure Created
 -Playlist folder songs genres covers data -Files created README.md Playlist data files
 
 Story to App Connection
-The idea for Midnight Mix came from the concept of exploring different worlds, inspired by the style of The Midnight Gospel. Instead of traveling to random planets, users explore different music worlds based on genres. The app turns playlist creation into a creative journey where users can discover songs and organize their music.
+Centeralizes concert data slove problem of fans using fragment forums and world- of mouth to find tour setlists.
 
 Team Members
 Martha Casas Individual project.
